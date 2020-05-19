@@ -1,2 +1,2 @@
-# drpolaton.github.io
-Github Page Deposu
+# drpolaton.com
+Çok yakında...

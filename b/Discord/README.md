@@ -5,6 +5,7 @@
     <meta http-equiv="refresh" content="0;URL=https://discord.gg/W2SYN54">
 </head>
 <body>
-    <h1>Yönlendiriliyor</h1>
+    <h1>Yönlendiriliyor...</h1>
+    <p>Otomatik yönlendirme olmaz ise <a href="https://discord.gg/W2SYN54">buraya</a> tıklayın.</p>
 </body>
 </html>

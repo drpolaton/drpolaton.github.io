@@ -1,0 +1,22 @@
+# Site settings
+title: Dr. Polaton
+description: Dr.Polaton, CoronaVirus (Covid-19) nedeniyle karantinaya alınan üniversite adayları için TYT-AYT aşısını buldu.... detaylar canlı yayında 14 Mayıs Çarşamba Günü saat 13.00'da Dr.Platon Youtube Kanalın'da...
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Dr. Polaton
+user_description: Doktora Öğretim Görevlisi Adem Polat
+user_title: Dr. Öğr. Üyesi Adem Polat
+email: dr.polaton@gmail.com
+twitter_username: drpolaton
+github_username:  drpolaton
+instagram_username: drpolaton
+youtube_username: DrPolaton
+# gplus_username:  lorem_ipsum
+
+# Google-analytics
+google-analytics:
+  id: "UA-112846050-13"
+
+exclude: ['package.json', 'src' , 'node_modules']

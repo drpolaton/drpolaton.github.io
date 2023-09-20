@@ -17,6 +17,6 @@ youtube_username: DrPolaton
 
 # Google-analytics
 google-analytics:
-  id: "UA-112846050-13"
+  id: "G-VZJG7C5PPE"
 
 exclude: ['package.json', 'src' , 'node_modules']
